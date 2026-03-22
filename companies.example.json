@@ -1,0 +1,7 @@
+[
+  {"name": "Acme Financial", "slug": "acme-financial", "ats": "greenhouse"},
+  {"name": "Nova Payments", "slug": "nova-payments", "ats": "lever"},
+  {"name": "Atlas Bank", "slug": "atlas-bank", "ats": "workday", "workday_instance": "wd3", "workday_board": "External"},
+  {"name": "Prism Analytics", "slug": "prism-analytics", "ats": "ashby"},
+  {"name": "Meridian Tech", "slug": "meridian-tech", "ats": "smartrecruiters"}
+]

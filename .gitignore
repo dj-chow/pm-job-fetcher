@@ -1,0 +1,17 @@
+output/
+seen_jobs.json
+customized_resumes/
+digest_preview.html
+__pycache__/
+*.pyc
+.claude/
+settings.json
+linkedin_session/
+digest.log
+job_tracker.md
+networking_summary.md
+_ul
+_ul-*
+companies.json
+networking_companies.json
+build_*_resume.py

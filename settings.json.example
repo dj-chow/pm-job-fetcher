@@ -1,0 +1,13 @@
+{
+  "slack_webhook_url": "",
+  "email_from": "your-email@gmail.com",
+  "email_app_password": "your-gmail-app-password",
+  "email_to": "destination@email.com",
+  "max_jobs_per_digest": 5,
+  "base_resume_path": "C:\\path\\to\\your\\resume.docx",
+  "skill_path": "C:\\path\\to\\resume-customizer.skill",
+  "whatsapp_phone_id": "your-meta-phone-id",
+  "whatsapp_token": "your-meta-api-token",
+  "whatsapp_to": "+1234567890",
+  "whatsapp_template": "job_alerts"
+}
